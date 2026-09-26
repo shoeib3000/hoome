@@ -1,0 +1,6 @@
+{
+  "name": "آگهی هوشمند ملک (Smart Property Listing)",
+  "description": "A smart and professional web application for creating real estate listings, inspired by Divar.ir. It uses AI to help generate compelling property descriptions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
